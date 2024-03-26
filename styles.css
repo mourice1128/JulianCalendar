@@ -1,0 +1,74 @@
+body {
+    font-family: calibri, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:#fffacd;
+    background-image: url("https://images.squarespace-cdn.com/content/v1/531e3cf5e4b018be29dc2856/00f646ef-9284-4be5-81ab-253b8fff5e34/Holiday+Black.png");
+    background-size: 25%;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+.container {
+    width: auto;
+    margin: 0 auto;
+    text-align: left;
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
+
+button {
+    background-color: #d71921;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+    font-weight: bolder;
+    width: 150px;
+}
+
+button:hover {
+    background-color:#fff200;
+    color: black;
+    font-weight: bolder
+}
+.footer-content {
+    font-size: 15px;
+    font-weight: bolder;
+    color: rgb(185, 19, 102);
+    text-align: center;
+    margin: auto;
+    float: center;
+}
+#FootBG {
+    padding: .25%;
+}
+
+.holidayLogo {
+    height: auto;
+    width: 100%;
+    opacity: 65%;
+    float: top left;
+    max-width: 200px;
+    max-height: 200px;
+}
+
+/* .julianSection {
+    text-align: left;
+    width: 80%;
+} */
+
+.table1 {
+    width: auto;
+    text-align: center;
+    float: auto;
+    margin: 0 auto;
+}
